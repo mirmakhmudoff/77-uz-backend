@@ -1,1 +1,7 @@
-# 77-uz-backend
+```bash
+pip install -r requirements/development.txt
+```
+
+```bash
+pre-commit install && pre-commit autoupdate
+```
